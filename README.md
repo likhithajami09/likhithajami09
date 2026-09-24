@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Likhitha+Jami+%F0%9F%91%8B;Data+Analyst+%7C+AI%2FML+Engineer+%7C+Business+Analyst;Fresher+%7C+Open+to+all+IT+Roles;Turning+Data+Into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Likhitha+Jami+%F0%9F%91%8B;Data+Analyst+%7C+AI%2FML+Engineer;Fresher+%7C+Open+to+all+IT+Roles;Turning+Data+Into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 
 <br/>
 
@@ -67,7 +67,7 @@
 
 ### 💼 Experience
 
-- **Business Analyst Intern** — One Aim IT Solutions *(Jul 2025 – Oct 2025)*
+- **Data Analyst Intern** — Innomatics *(Current)*
 - **Python Programming Intern** — SkillDzire *(Nov 2025 – Apr 2026)*
 - **Generative AI & AWS Intern** — TechWing *(May 2025 – Jul 2025)*
 
