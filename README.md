@@ -56,12 +56,12 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🎬 **Amazon Prime Video — Content Analytics Dashboard** | Cleaned and analyzed a 9,668-title Prime Video dataset (movies vs. TV shows, ratings, genre trends, content growth by year, country spread) end-to-end — Raw Data → SQL Cleaning → Analysis → Power BI → Insights. Built an interactive dashboard styled to match the Prime aesthetic | `MySQL` `Power BI` |
-| 🩺 **[Dissolved Oxygen Prediction (Hybrid Deep Learning)](https://github.com/likhithajami09/Dissolved_Oxygen_Prediction)** | Predicts dissolved oxygen levels using LightGBM feature selection and a hybrid ensemble (BiLSTM, GRU, RNN, Attention) on environmental data | `Python` `Deep Learning` `Flask` |
-| 💬 **[Group Discussion with AI](https://github.com/likhithajami09/Group_Discussion_with_AI)** | Multi-participant AI discussion platform with real-time response generation; applied NLP/ML to improve response quality by ~40% | `Python` `NLP` `Machine Learning` |
-| 📧 **[Email Automation Bot](https://github.com/likhithajami09/Email_Automation_Bot)** | Automates bulk email workflows with scheduling and validation logic, cutting manual effort by 42% | `Python` `Excel` |
-| 🌐 **[Personal Portfolio Website](https://github.com/likhithajami09/Personal_Portfolio_Website_Django)** | Personal portfolio site built with Django | `Python` `Django` |
-| 🛒 **E-Commerce Sales Analysis Dashboard** | Cleaned & validated 50,000+ record e-commerce datasets; built SQL queries and interactive Power BI dashboards for KPI tracking, boosting reporting visibility by ~38% | `SQL` `Power BI` `Excel` |
+| 🎬 **Amazon Prime Video — Content Analytics Dashboard** | Turned a 9,668-title Prime Video dataset into an interactive dashboard: 7,814 movies vs. 1,854 shows, genre & rating trends, and a content boom in 2021 — full pipeline from raw data → SQL cleaning → Power BI, styled in the Prime aesthetic | `MySQL` `Power BI` |
+| 🐟 **[Smart Aquaculture — Dissolved Oxygen Prediction](https://github.com/likhithajami09/Dissolved_Oxygen_Prediction)** | A hybrid deep learning ensemble (LightGBM + BiLSTM + GRU + RNN + Attention) that predicts dissolved oxygen in real time — hit **97.85% accuracy**, beating standalone LSTM/GRU baselines — wrapped in a Flask web app with secure login | `Python` `Deep Learning` `Flask` |
+| 🎤 **[Group Discussion with AI](https://github.com/likhithajami09/Group_Discussion_with_AI)** | A live mock group-discussion room powered by AI — pick a topic & difficulty, speak or type with virtual participants, and get scored on the spot. Built for interview prep and communication practice, with voice recognition + AI-generated responses | `Python` `Flask` `NLP` `Speech API` |
+| 📨 **[Email Automation Bot](https://github.com/likhithajami09/Email_Automation_Bot)** | Send hundreds of *personalized* emails in one click — bulk sending from a CSV, scheduling, and PIN-based attachment mapping so every recipient auto-gets their own file. An interactive Streamlit app that cut manual effort by 42% | `Python` `Streamlit` `SMTP` `Pandas` |
+| 🌐 **[Personal Portfolio Website](https://github.com/likhithajami09/Personal_Portfolio_Website_Django)** | A Django-powered personal portfolio site showcasing projects, skills, and experience | `Python` `Django` |
+| 🛒 **E-Commerce Sales Analysis Dashboard** | Cleaned & validated 50,000+ e-commerce records, then built SQL queries and an interactive Power BI dashboard for KPI monitoring — boosted reporting visibility by ~38% during stakeholder reviews | `SQL` `Power BI` `Excel` |
 
 ---
 
